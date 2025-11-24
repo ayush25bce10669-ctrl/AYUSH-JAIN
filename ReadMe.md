@@ -122,7 +122,7 @@ ttk (Treeview Widget)	Displaying amortization schedule
 
 MessageBox	Input validation and error display
 
-📥 Steps to Install \& Run the Project
+~ Steps to Install \& Run the Project
 
 1️- Install Python
 
@@ -247,6 +247,7 @@ Long tenures (30 years)
 
 
 Invalid inputs (empty or letters)
+
 
 
 
