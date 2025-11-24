@@ -6,7 +6,7 @@ Project Title
 
 
 
-### 📘 Overview of the Project
+###  Overview of the Project
 
 
 
@@ -36,9 +36,9 @@ The application provides a simple, fast, and user-friendly interface suitable fo
 
 
 
-✨ Features
++ Features
 
-✔ User Inputs
+~ User Inputs
 
 
 
@@ -54,7 +54,7 @@ Loan Tenure (Years)
 
 
 
-✔ Calculated Outputs
+~ Calculated Outputs
 
 
 
@@ -70,7 +70,7 @@ Total Repayment Amount
 
 
 
-✔ Extra Functionality
+~ Extra Functionality
 
 
 
@@ -98,7 +98,7 @@ Closing Balance
 
 
 
-✔ User-Friendly GUI
+~ User-Friendly GUI
 
 
 
@@ -110,7 +110,7 @@ Error handling for invalid inputs
 
 
 
-🛠 Technologies / Tools Used
+~ Technologies / Tools Used
 
 Tool / Technology	Purpose
 
@@ -124,7 +124,7 @@ MessageBox	Input validation and error display
 
 📥 Steps to Install \& Run the Project
 
-1️⃣ Install Python
+1️- Install Python
 
 
 
@@ -134,7 +134,7 @@ Download from: https://www.python.org/downloads/
 
 
 
-2️⃣ Create a Project Folder
+2️- Create a Project Folder
 
 mkdir emi\_calculator
 
@@ -142,7 +142,7 @@ cd emi\_calculator
 
 
 
-3️⃣ Save the Python File
+3️- Save the Python File
 
 
 
@@ -160,7 +160,7 @@ Paste the full code of the GUI EMI Calculator inside it.
 
 
 
-4️⃣ Run the Application
+- Run the Application
 
 
 
@@ -178,7 +178,7 @@ The GUI window will open.
 
 
 
-🧪 Instructions for Testing
+- Instructions for Testing
 
 
 
@@ -250,21 +250,6 @@ Invalid inputs (empty or letters)
 
 
 
-🖼 Screenshots (Optional but Recommended)
 
 
-
-You can add your own screenshots like:
-
-
-
-!\[Main Screen](screenshots/main\_window.png)
-
-!\[AM Schedule](screenshots/schedule\_window.png)
-
-
-
-
-
-Create a folder named screenshots and place your images inside it.
 
